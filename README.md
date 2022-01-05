@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some projects
 - 📫 How to reach me: on Discord: Blyrex#0001
 
 <span>
@@ -9,8 +8,4 @@
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blyrex&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
-</span>
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Blyrex&layout=compact&theme=dark" />
 </span>
